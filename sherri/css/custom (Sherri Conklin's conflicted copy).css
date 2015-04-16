@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: "IM Fell English";
+  font-size: 13px;
+  color: #ffeddd;
+  background-color: #775666;
+}
+
+a {
+  color: #ffca77;
+}
+
+p {
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ffeddd;
+}
+
+.page-header {
+  border-bottom: 1pxpx solid #332111;
+}
+
+hr {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #ffffff;
+}
+
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+  background-color: #ffffff;
+  padding: 4px 4px 4px 4px;
+  font-size: 13px;
+  color: #555555;
+  border: 1px solid #ccc;
+}
+
+.well {
+  background-color: #aa9888;
+}
+
+.navbar-inverse .navbar-inner{
+background-color: #441400;
+background-image: none;
+}
+
+.navbar .brand {
+  padding: 8px 20px 12px;
+  font-size: 20px;
+  color: #ffca77;
+}
+
+.navbar .divider-vertical {
+  height: 41px;
+  background-color: #ffca77;
+  border-right: 1px solid #ffca77;
+}
+
+.navbar .nav > li > a {
+  padding: 10px 10px 11px;
+  font-size: 14px;
+  color: #ffca77;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #ffca77;
+  background-color: none
+}
+
+#heart
+{
+img style="float:right";
+}

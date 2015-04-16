@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 13px;
+  color: #ffeddd;
+  background-color: #332111;
+}
+body,
+input,
+button,
+select,
+textarea,
+.navbar-search .search-query {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+margin: 15px;
+}
+
+div {
+text-align:justify;
+}
